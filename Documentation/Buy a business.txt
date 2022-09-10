@@ -1,0 +1,13 @@
+Search for a business: 
+Listing all the avaliable business in the database with a little bit of description: location/listed price/ contact info.
+
+multiple filters->
+
+1) business type:
+	-> a) establised business: businesses with employees and furniture, there could a fixed criteria to list/show the business in this filter like monthly stable reveneu / starting date of the business or any other.
+	-> b) assets sale: any business places like restaurants, store
+	-> c) real estate: listing the startups
+2) industry type: restaurants & foods , health care , manufacturing , services business, retails
+3) location : for initial locally in pakistan only
+4) price range : setting the minimun and maximun price of the required search
+5) advance filters: setting up all the attributes.
