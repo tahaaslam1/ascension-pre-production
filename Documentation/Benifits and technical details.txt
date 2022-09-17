@@ -1,0 +1,9 @@
+This platform will provide an easy way to invest your money is a secure way.
+This platform will reduce the time for merchants for making any deals.
+Any personal willing to start their desired business but due to inexperience and confused which business to buy, this platform can be a roadmap for them to buy an establised business and run it Or can hire a broker.
+Our project will provide a trustworthy platform for investors to go through listing of different profit generating businesses for sale.  And on the other hand providing a platform to business owners to flip their running business to some legit client. 
+
+
+Technical details of final deliverbale
+Our product will based on 2 main interfaces, one for buyer who is willing to buy any business. This user will interract with mobile applicaiton that will allow himher to view to listing of their desired niche or interest. This interface will allow the user to select the tags of their interest, that will ultimately save them in the database and by continuing backend api will be hit, this application programming interface will be based on ExpressJS.
+another interface will be for the user(business owners) who want to sell their business, this will be a web application which will require a loginsignup to futher proceed with the listing. 
